@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>52 Gift Cards</title>
+	<link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<style type="text/css">
+	*{
+		font-family: 'Lato';
+	}
+	div{
+		float: left;
+		display: inline;
+	}
+	a, a:hover, a:visited{
+		padding: 20px; width: 100px; text-align: center; border: 1px solid #000; color: #000;
+	}
+	img{
+		margin:5px;
+	}
+	</style>
+</head>
+<body>
+	<h1>52 Gift Card Images</h1>
+	<div style="margin:10px; height:50px; width:100%; ">
+		<a href="https://dl.dropboxusercontent.com/u/6074366/AllImages.zip"> Dowload all the images</a>
+		<a href="https://dl.dropboxusercontent.com/u/6074366/PDFVersion.zip"> Download all the PDF</a>
+	</div>
+
+	<script>
+	var i, img, src, title;
+
+	
+
+
+for (var i = 1; i< 53; i++){
+
+	var img = document.createElement("img");
+	img.src = "http://laranjeira.pt/52giftcards/"+i+".jpg";
+
+	title = document.createElement('h2');
+	title.innerHTML = "Gift Card "+i;
+
+
+	var iDiv = document.createElement('div');
+	iDiv.id = 'block'+i;
+	
+	document.getElementsByTagName('body')[0].appendChild(iDiv);
+
+
+	var src = document.getElementById('block'+i);
+	src.appendChild(img);
+	src.appendChild(title);
+
+
+
+
+
+
+}
+
+
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49586938-2', 'auto');
+  ga('send', 'pageview');
+
+</script>	
+</body>
+</html>
