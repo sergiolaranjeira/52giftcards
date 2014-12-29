@@ -1,4 +1,4 @@
-52giftcards
+52 Gift Cards
 ===========
 
 Here are all files of the article I wrote on medium:
