@@ -2,7 +2,7 @@
 ===========
 
 Here are all files of the article I wrote on medium:
-https://medium.com/p/d3d6bdbd93fd
+https://medium.com/@serlaranjeira/my-gift-to-the-world-d3d6bdbd93fd
 
 All Editable files are available here and also the final images.
 
@@ -21,6 +21,9 @@ https://www.flickr.com/
 
 I've also used an action on Photoshop to give the same look to all images (a retro style like instagram)
 http://friabrisa.deviantart.com/art/Instagram-13-Filters-PS-Actions-359911622
+
+You can check the public repository on dropbox
+https://www.dropbox.com/sh/jy72jprqh71iul6/AACL5bABoqqRfaJgte3id4yta?dl=0
 
 I want to thank to all artists and to all these amazing people for making these project possible.
 
