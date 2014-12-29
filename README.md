@@ -4,9 +4,9 @@
 Here are all files of the article I wrote on medium:
 https://medium.com/@serlaranjeira/my-gift-to-the-world-d3d6bdbd93fd
 
-All Editable files are available here and also the final images.
+All source files and the final images are available here.
 
-All these files you can download and use them as you want.
+You can download and use all the files as you want.
 
 If you want me to add more cards please add the sentence on this google doc:
 https://docs.google.com/a/laranjeira.pt/spreadsheets/d/1o3Fv1WYSvR-Olyf5d4wVCvj9FU0k26--66UN4KIETK8/edit?usp=sharing
