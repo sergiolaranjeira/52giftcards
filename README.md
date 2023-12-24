@@ -1,8 +1,8 @@
 52 Gift Cards
 ===========
 
-Here are all files of the article I wrote on medium:
-https://medium.com/@serlaranjeira/my-gift-to-the-world-d3d6bdbd93fd
+Here are all files of the article I wrote on [medium](https://medium.com/@serlaranjeira/my-gift-to-the-world-d3d6bdbd93fd):
+
 
 All source files and the final images are available here.
 
